@@ -13,6 +13,7 @@
 - 📫 ## Contact Me
   - Email: [sidhdhikabanu01@gmail.com]
   - LinkedIn: [https://www.linkedin.com/in/sidhdhika-banu-034109285]
+  - GitHub: [http://github.com/SidhdhikaBanu]
  
 SidhdhikaBanu/SidhdhikaBanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
